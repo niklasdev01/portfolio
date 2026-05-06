@@ -1,0 +1,20 @@
+
+<DOCTYPE html>
+<html>
+<head>
+     <title>Niklas Portfolio</title>
+</head>
+<body>
+
+     <h1>Moi</h1>
+     <h2>Olen Niklas</h2>
+
+     <p>Opettelen koodaamista ja teen projekteja.</p>
+
+     <h3>Projektit</h3>
+     </ul>
+         <li>Tämä portfolio</li>
+     </ul>
+
+</body>
+</html>
