@@ -18,7 +18,7 @@ https://github.com/niklasdev01/kivi-paperi-sakset
 Arvauspeli
 Yksinkertainen numeron arvauspeli.
 
-
+https://github.com/niklasdev01/Arvauspeli
 
 ## Tavoite
 Tulla hyväksi koodaajaksi 💻🔥
