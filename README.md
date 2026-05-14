@@ -9,7 +9,11 @@ Tämä on minun GitHub-portfolio.
 - Kehityn ohjelmoijana päivä päivältä
 
 ## Projektit
-()
+
+Kivi-paperi-sakset
+Peli jossa pelaat tietokonetta vastaan.
+
+
 
 ## Tavoite
 Tulla hyväksi koodaajaksi 💻🔥
