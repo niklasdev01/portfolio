@@ -13,7 +13,7 @@ Tämä on minun GitHub-portfolio.
 Kivi-paperi-sakset
 Peli jossa pelaat tietokonetta vastaan.
 
-
+https://github.com/niklasdev01/kivi-paperi-sakset
 
 ## Tavoite
 Tulla hyväksi koodaajaksi 💻🔥
