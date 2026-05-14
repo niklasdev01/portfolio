@@ -9,7 +9,7 @@ Tämä on minun GitHub-portfolio.
 - Kehityn ohjelmoijana päivä päivältä
 
 ## Projektit
-(Tänne lisään projektejani myöhemmin)
+()
 
 ## Tavoite
 Tulla hyväksi koodaajaksi 💻🔥
