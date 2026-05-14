@@ -15,5 +15,10 @@ Peli jossa pelaat tietokonetta vastaan.
 
 https://github.com/niklasdev01/kivi-paperi-sakset
 
+Arvauspeli
+Yksinkertainen numeron arvauspeli.
+
+
+
 ## Tavoite
 Tulla hyväksi koodaajaksi 💻🔥
